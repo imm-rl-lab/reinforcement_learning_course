@@ -12,6 +12,10 @@
 
 [https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Just for fun :)
 
+## Видео лекции
+
+[A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
+
 ## Литература
 
 [S. Mannor, R. Rubinstein, Y. Gat. The Cross Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
