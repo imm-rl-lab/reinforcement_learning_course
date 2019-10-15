@@ -10,4 +10,6 @@
 
 ## Литература
 
-В скором времени здесь будут статьи и книжки 
+[G. Cybenko. Approximation by Superpositions of a Sigmoidal Function.](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf) Теорема Цыбенко об аппроксимации непрерывных функций суперпозициями сигмоидальных функций (считай нейронными сетями).
+
+
