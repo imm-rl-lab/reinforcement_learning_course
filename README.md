@@ -10,7 +10,7 @@
 
 ## Полезные ссылки
 
-[https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей.
+[https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Just for fun :)
 
 ## Литература
 
