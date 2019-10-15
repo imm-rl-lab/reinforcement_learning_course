@@ -9,3 +9,5 @@
 [Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
 
 ## Литература
+
+В скором времени здесь будут статьи и книжки 
