@@ -8,4 +8,22 @@
 
 [Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
 
+## Домашние задания
+[Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
+
+## Полезные ссылки
+
+[https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Just for fun :)
+
+## Видео лекции
+
+[A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
+
 ## Литература
+
+[S. Mannor, R. Rubinstein, Y. Gat. The Cross Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
+
+[G. Cybenko. Approximation by Superpositions of a Sigmoidal Function (1989).](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf) Теорема Цыбенко об аппроксимации непрерывных функций суперпозициями сигмоидальных функций (считай нейронными сетями).
+
+
+[C. Николенко, А. Кадурин, Е. Архангельская. Глубокое обучение. Погружение в мир нейронных сетей (2018).](https://cloud.mail.ru/public/AaZw/UM3d856gy) Пожалуй, единственная книга на русском, в которой последовательно и достаточно полно изложены основные моменты работы с нейронными сетями. Написана простым языком, но при этом включает в себя серьёзный обзор литературы со ссылками на первоисточники. 
