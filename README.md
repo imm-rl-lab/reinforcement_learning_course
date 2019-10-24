@@ -17,6 +17,8 @@
 
 ## Полезные ссылки
 
+[https://gym.openai.com/] Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
+
 [https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Just for fun :)
 
 ## Видео лекции
