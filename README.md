@@ -8,14 +8,14 @@
 
 [Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
 
-## Код с практик
+### Код с практик
 
 [Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
 
-## Домашние задания
+### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
 
-## Полезные ссылки
+### Полезные ссылки
 
 [https://gym.openai.com/](https://gym.openai.com/) Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
 
@@ -23,11 +23,11 @@
 
 [https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Just for fun :)
 
-## Видео лекции
+### Видео лекции
 
 [A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
 
-## Литература
+### Литература
 
 [S. Mannor, R. Rubinstein, Y. Gat. The Cross Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
 
