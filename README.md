@@ -19,6 +19,8 @@
 
 [https://gym.openai.com/](https://gym.openai.com/) Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
 
+[https://pytorch.org/](https://pytorch.org/) Сайт библиотеки PyTorch.
+
 [https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Just for fun :)
 
 ## Видео лекции
