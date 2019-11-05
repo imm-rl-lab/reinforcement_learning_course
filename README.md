@@ -8,16 +8,24 @@
 
 [Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
 
+[Лекция 3. Динамическое программирование](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)
+
 ### Код с практик
 
 [Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
 
+[Практика 2. Решение регрессии с использованием PyTorch](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-1.py)
+
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
+
+[Домашнее задание 2](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_2.pdf)
 
 ### Полезные ссылки
 
 [https://gym.openai.com/](https://gym.openai.com/) Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
+
+[https://github.com/MattChanTK/gym-maze](https://github.com/MattChanTK/gym-maze) Репозиторий сред c Maze
 
 [https://pytorch.org/](https://pytorch.org/) Сайт библиотеки PyTorch.
 
@@ -33,5 +41,6 @@
 
 [G. Cybenko. Approximation by Superpositions of a Sigmoidal Function (1989).](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf) Теорема Цыбенко об аппроксимации непрерывных функций суперпозициями сигмоидальных функций (считай нейронными сетями).
 
-
 [C. Николенко, А. Кадурин, Е. Архангельская. Глубокое обучение. Погружение в мир нейронных сетей (2018).](https://cloud.mail.ru/public/AaZw/UM3d856gy) Пожалуй, единственная книга на русском, в которой последовательно и достаточно полно изложены основные моменты работы с нейронными сетями. Написана простым языком, но при этом включает в себя серьёзный обзор литературы со ссылками на первоисточники. 
+
+[Р.С. Саттон, Э.Г. Барто. Обучение с подкреплением (2014).](https://nashol.com/2017091096341/obuchenie-s-podkrepleniem-satton-r-s-barto-e-g-2014.html) Уже ставшая классической монография по обучению с подкреплением.
