@@ -14,7 +14,9 @@
 
 [Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
 
-[Практика 2. Решение регрессии с использованием PyTorch](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-1.py)
+[Практика 2. Решение задачи регрессии с использованием PyTorch](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-1.py)
+
+[Практика 2. Решение Cartpole методом Deep Cross-Entropy](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-2.py)
 
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
