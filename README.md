@@ -8,6 +8,8 @@
 
 [Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
 
+[Лекция 3. Динамическое программирование](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)
+
 ### Код с практик
 
 [Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
