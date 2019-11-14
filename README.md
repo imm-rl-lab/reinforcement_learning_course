@@ -18,6 +18,8 @@
 
 [Практика 2.2. Решение Cartpole методом Deep Cross-Entropy](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-2.py)
 
+[Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)
+
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
 
