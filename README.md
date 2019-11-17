@@ -10,6 +10,8 @@
 
 [Лекция 3. Динамическое программирование](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)
 
+[Лекция 4. Model-Free Reinforcement Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)
+
 ### Код с практик
 
 [Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
