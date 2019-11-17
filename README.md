@@ -43,7 +43,7 @@
 
 ### Литература
 
-[S. Mannor, R. Rubinstein, Y. Gat. The Cross Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
+[S. Mannor, R. Rubinstein, Y. Gat. The Cross-Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
 
 [A. Costa, O. Jones, D. Kroese. Convergence properties of the cross-entropy method for discrete optimization (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.399.4581&rep=rep1&type=pdf) В статье дается обоснование сходимости метода Cross-Entropy в задачах дискретной оптимизации. Однако, если пространство состояний и действий конечные, а среда детерминирована, то, кажется, задача Reinforcement Learning в рассматриваемую постановку задачи дискретной оптимизации вкладывается.
 
