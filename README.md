@@ -45,6 +45,8 @@
 
 [S. Mannor, R. Rubinstein, Y. Gat. The Cross Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
 
+[A. Costa, O. Jones, D. Kroese. Convergence properties of the cross-entropy method for discrete optimization (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.399.4581&rep=rep1&type=pdf) В статье дается обоснование сходимости метода Cross-Entropy в задачах дискретной оптимизации. Однако, если пространство состояний и действий конечные, а среда детерминирована, то, кажется, задача Reinforcement Learning в рассматриваемую постановку задачи дискретной оптимизации вкладывается.
+
 [G. Cybenko. Approximation by Superpositions of a Sigmoidal Function (1989).](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf) Теорема Цыбенко об аппроксимации непрерывных функций суперпозициями сигмоидальных функций (считай нейронными сетями).
 
 [C. Николенко, А. Кадурин, Е. Архангельская. Глубокое обучение. Погружение в мир нейронных сетей (2018).](https://cloud.mail.ru/public/AaZw/UM3d856gy) Пожалуй, единственная книга на русском, в которой последовательно и достаточно полно изложены основные моменты работы с нейронными сетями. Написана простым языком, но при этом включает в себя серьёзный обзор литературы со ссылками на первоисточники. 
