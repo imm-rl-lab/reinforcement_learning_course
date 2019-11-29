@@ -43,6 +43,8 @@
 
 [A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
 
+[D. Silver. Introduction to Reinforcement Learning.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) Курс по Reinforcement Learning в University College London.
+
 ### Литература
 
 [S. Mannor, R. Rubinstein, Y. Gat. The Cross-Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
