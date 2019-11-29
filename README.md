@@ -43,7 +43,7 @@
 
 [A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
 
-[D. Silver. Introduction to Reinforcement Learning.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) Курс по Reinforcement Learning в University College London.
+[D. Silver. Introduction to Reinforcement Learning.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) Курс по Reinforcement Learning в University College London в основном по монографии Р.С. Саттон, Э.Г. Барто.
 
 ### Литература
 
