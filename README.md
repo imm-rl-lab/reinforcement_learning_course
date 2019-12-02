@@ -27,6 +27,8 @@
 
 [Домашнее задание 2](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_2.pdf)
 
+[Домашнее задание 3](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_3.pdf)
+
 ### Полезные ссылки
 
 [https://gym.openai.com/](https://gym.openai.com/) Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
@@ -41,6 +43,8 @@
 
 [A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
 
+[D. Silver. Introduction to Reinforcement Learning.](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) Курс по Reinforcement Learning в University College London.
+
 ### Литература
 
 [S. Mannor, R. Rubinstein, Y. Gat. The Cross-Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
@@ -51,4 +55,4 @@
 
 [C. Николенко, А. Кадурин, Е. Архангельская. Глубокое обучение. Погружение в мир нейронных сетей (2018).](https://cloud.mail.ru/public/AaZw/UM3d856gy) Пожалуй, единственная книга на русском, в которой последовательно и достаточно полно изложены основные моменты работы с нейронными сетями. Написана простым языком, но при этом включает в себя серьёзный обзор литературы со ссылками на первоисточники. 
 
-[Р.С. Саттон, Э.Г. Барто. Обучение с подкреплением (2014).](https://nashol.com/2017091096341/obuchenie-s-podkrepleniem-satton-r-s-barto-e-g-2014.html) Уже ставшая классической монография по обучению с подкреплением.
+[Р.С. Саттон, Э.Г. Барто. Обучение с подкреплением (1998).](https://nashol.com/2017091096341/obuchenie-s-podkrepleniem-satton-r-s-barto-e-g-2014.html) Уже ставшая классической монография по обучению с подкреплением.
