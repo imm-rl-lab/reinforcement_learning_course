@@ -59,7 +59,11 @@
 
 [G. Cybenko. Approximation by Superpositions of a Sigmoidal Function (1989).](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf) Теорема Цыбенко об аппроксимации непрерывных функций суперпозициями сигмоидальных функций (считай нейронными сетями).
 
-[V. Mnih ata el. Playing Atari with Deep Reinforcement Learning (2013).](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
+[V. Mnih at el. Playing Atari with Deep Reinforcement Learning (2013).](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) Статья про алгоритм DQN в приложении к играм Atari.
+
+[H. Van Hasselt, A. Guez, D. Silver. Deep Reinforcement Learning with Double Q-Learning (2016).](https://arxiv.org/pdf/1509.06461.pdf) Статья про алгоритм Double DQN.
+
+[S. Gu, T. Lillicrap, I. Sutskever, S. Levine. Continuous Deep Q-Learning with Model-based Acceleration (2016)](http://proceedings.mlr.press/v48/gu16.pdf) Статья про алгоритм Continuous DQN.
 
 
 
