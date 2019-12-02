@@ -63,7 +63,7 @@
 
 [H. Van Hasselt, A. Guez, D. Silver. Deep Reinforcement Learning with Double Q-Learning (2016).](https://arxiv.org/pdf/1509.06461.pdf) Статья про алгоритм Double DQN.
 
-[S. Gu, T. Lillicrap, I. Sutskever, S. Levine. Continuous Deep Q-Learning with Model-based Acceleration (2016)](http://proceedings.mlr.press/v48/gu16.pdf) Статья про алгоритм Continuous DQN.
+[S. Gu, T. Lillicrap, I. Sutskever, S. Levine. Continuous Deep Q-Learning with Model-based Acceleration (2016).](http://proceedings.mlr.press/v48/gu16.pdf) Статья про алгоритм Continuous DQN.
 
 
 
