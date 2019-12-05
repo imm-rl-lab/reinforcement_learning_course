@@ -12,6 +12,8 @@
 
 [Лекция 4. Model-Free Reinforcement Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)
 
+[Лекция 5. Value Function Approximation](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf)
+
 ### Код с практик
 
 [Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
@@ -47,12 +49,21 @@
 
 ### Литература
 
+[Р.С. Саттон, Э.Г. Барто. Обучение с подкреплением (1998).](https://nashol.com/2017091096341/obuchenie-s-podkrepleniem-satton-r-s-barto-e-g-2014.html) Уже ставшая классической монография по обучению с подкреплением.
+
+[C. Николенко, А. Кадурин, Е. Архангельская. Глубокое обучение. Погружение в мир нейронных сетей (2018).](https://cloud.mail.ru/public/AaZw/UM3d856gy) Пожалуй, единственная книга на русском, в которой последовательно и достаточно полно изложены основные моменты работы с нейронными сетями. Написана простым языком, но при этом включает в себя серьёзный обзор литературы со ссылками на первоисточники. 
+
 [S. Mannor, R. Rubinstein, Y. Gat. The Cross-Entropy method for Fast Policy Search (2003).](https://www.aaai.org/Papers/ICML/2003/ICML03-068.pdf) Статья про использование метода Cross-Entropy для оптимизации Policy в задачах обучения с подкреплением.
 
 [A. Costa, O. Jones, D. Kroese. Convergence properties of the cross-entropy method for discrete optimization (2007)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.399.4581&rep=rep1&type=pdf) В статье дается обоснование сходимости метода Cross-Entropy в задачах дискретной оптимизации. Однако, если пространство состояний и действий конечные, а среда детерминирована, то, кажется, задача Reinforcement Learning в рассматриваемую постановку задачи дискретной оптимизации вкладывается.
 
 [G. Cybenko. Approximation by Superpositions of a Sigmoidal Function (1989).](https://pdfs.semanticscholar.org/05ce/b32839c26c8d2cb38d5529cf7720a68c3fab.pdf) Теорема Цыбенко об аппроксимации непрерывных функций суперпозициями сигмоидальных функций (считай нейронными сетями).
 
-[C. Николенко, А. Кадурин, Е. Архангельская. Глубокое обучение. Погружение в мир нейронных сетей (2018).](https://cloud.mail.ru/public/AaZw/UM3d856gy) Пожалуй, единственная книга на русском, в которой последовательно и достаточно полно изложены основные моменты работы с нейронными сетями. Написана простым языком, но при этом включает в себя серьёзный обзор литературы со ссылками на первоисточники. 
+[V. Mnih at el. Playing Atari with Deep Reinforcement Learning (2013).](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) Статья про алгоритм DQN в приложении к играм Atari.
 
-[Р.С. Саттон, Э.Г. Барто. Обучение с подкреплением (1998).](https://nashol.com/2017091096341/obuchenie-s-podkrepleniem-satton-r-s-barto-e-g-2014.html) Уже ставшая классической монография по обучению с подкреплением.
+[H. Van Hasselt, A. Guez, D. Silver. Deep Reinforcement Learning with Double Q-Learning (2016).](https://arxiv.org/pdf/1509.06461.pdf) Статья про алгоритм Double DQN.
+
+[S. Gu, T. Lillicrap, I. Sutskever, S. Levine. Continuous Deep Q-Learning with Model-based Acceleration (2016).](http://proceedings.mlr.press/v48/gu16.pdf) Статья про алгоритм Continuous DQN.
+
+
+
