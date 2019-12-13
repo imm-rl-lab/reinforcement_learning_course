@@ -24,6 +24,10 @@
 
 [Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)
 
+[Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py)
+
+[Практика 5. Решение Cartpole методом DQN](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py)
+
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
 
