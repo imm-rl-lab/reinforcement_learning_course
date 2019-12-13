@@ -35,6 +35,8 @@
 
 [Домашнее задание 3](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_3.pdf)
 
+[Домашнее задание 4](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_4.pdf)
+
 ### Полезные ссылки
 
 [https://gym.openai.com/](https://gym.openai.com/) Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
