@@ -73,5 +73,10 @@
 
 [S. Gu, T. Lillicrap, I. Sutskever, S. Levine. Continuous Deep Q-Learning with Model-based Acceleration (2016).](http://proceedings.mlr.press/v48/gu16.pdf) Статья про алгоритм Continuous DQN.
 
+[D. Silver at el. Deterministic Policy Gradient Algorithms David (2014).](http://proceedings.mlr.press/v32/silver14.pdf) Статья, в которой доказывается Deterministic Policy Gradient Theorem и приводится Deterministic Policy Gradient Algorithm.
+
+[T. Lillicrap at el. Continuous control with deep reinforcement learning (2016)](https://arxiv.org/pdf/1509.02971.pdf) Статья про алгоритм DDPG.
+
+[V. Mnih at el. Asynchronous Methods for Deep Reinforcement Learning (2016).](https://arxiv.org/pdf/1602.01783.pdf) Статья про асинхронный подход для решения задач Reinforcement Learning.
 
 
