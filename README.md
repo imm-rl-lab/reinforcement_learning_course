@@ -41,6 +41,16 @@
 
 [Домашнее задание 4](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_4.pdf)
 
+### Видео лекций и практик
+[Лекция 1]()
+
+[Лекция 2]()
+
+[Практика 2]()
+
+[Лекция 3]()
+
+
 ### Полезные ссылки
 
 [https://gym.openai.com/](https://gym.openai.com/) Страничка библиотеки Gym для Python. В ней содержаться многие стандартные Environments для обучения с подкреплением.
