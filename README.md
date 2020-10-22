@@ -6,15 +6,15 @@
 
 Лекция 1. Введение в обучение с подкреплением. Метод Cross-Entropy ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_1.pdf)/[видео](https://www.dropbox.com/s/h2lff3q4rhpzue7/Video_1.mp4?dl=0))
 
-[Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
+Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)/[видео](https://www.dropbox.com/s/th4mdrk1jcq1sgx/Video_2.mp4?dl=0))
 
-[Лекция 3. Динамическое программирование](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)
+Лекция 3. Динамическое программирование ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)/[видео](https://www.dropbox.com/s/xipiqohh3zb1o6f/Video_4.mp4?dl=0))
 
-[Лекция 4. Model-Free Reinforcement Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)
+Лекция 4. Model-Free Reinforcement Learning ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf))
 
-[Лекция 5. Value Function Approximation](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf)
+Лекция 5. Value Function Approximation ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf))
 
-[Лекция 6. Policy Gradient](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf)
+Лекция 6. Policy Gradient ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf))
 
 ### Код с практик
 
