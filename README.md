@@ -4,7 +4,7 @@
 
 ### Слайды с лекций
 
-Лекция 1. ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_1.pdf)/[видео](https://www.dropbox.com/s/h2lff3q4rhpzue7/Video_1.mp4?dl=0)) Введение в обучение с подкреплением. Метод Cross-Entropy
+Лекция 1. Введение в обучение с подкреплением. Метод Cross-Entropy ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_1.pdf)/[видео](https://www.dropbox.com/s/h2lff3q4rhpzue7/Video_1.mp4?dl=0))
 
 [Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
 
