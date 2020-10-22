@@ -18,19 +18,15 @@
 
 ### Код с практик
 
-[Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
+Практика 1. Метод Cross-Entropy для решение Maze ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py))
 
-[Практика 2.1. Решение задачи регрессии одним нейроном](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_1.py)
+Практика 2. PyTorch и Deep Cross-Entropy ([код 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_1.py)/[код 2](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_2.py)/[код 3](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_3.py)/[видео](https://www.dropbox.com/s/r73q2fowgxgz7yc/Video_3.mp4?dl=0))
 
-[Практика 2.2. Решение задачи регрессии с использованием PyTorch](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_2.py)
+Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py))
 
-[Практика 2.3. Решение Cartpole методом Deep Cross-Entropy](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_3.py)
+Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py))
 
-[Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)
-
-[Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py)
-
-[Практика 5. Решение Cartpole методом DQN](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py)
+Практика 5. Решение Cartpole методом DQN ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py))
 
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
