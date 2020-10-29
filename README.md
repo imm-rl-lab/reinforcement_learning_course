@@ -22,7 +22,7 @@
 
 Практика 2. PyTorch и Deep Cross-Entropy ([код 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_1.py)/[код 2](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_2.py)/[код 3](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_3.py)/[видео](https://www.dropbox.com/s/r73q2fowgxgz7yc/Video_3.mp4?dl=0))
 
-Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py))
+Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)/[видео](https://www.dropbox.com/s/62lo7fgar15qxkd/Video_5.mp4?dl=0))
 
 Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py))
 
