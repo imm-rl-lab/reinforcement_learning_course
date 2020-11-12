@@ -10,7 +10,7 @@
 
 Лекция 3. Динамическое программирование ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)/[видео](https://www.dropbox.com/s/xipiqohh3zb1o6f/Video_4.mp4?dl=0))
 
-Лекция 4. Model-Free Reinforcement Learning ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf))
+Лекция 4. Model-Free Reinforcement Learning ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)/[видео](https://www.dropbox.com/s/max2tig3f13q0cg/Video_6.mp4?dl=0))
 
 Лекция 5. Value Function Approximation ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf))
 
@@ -22,7 +22,7 @@
 
 Практика 2. PyTorch и Deep Cross-Entropy ([код 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_1.py)/[код 2](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_2.py)/[код 3](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_3.py)/[видео](https://www.dropbox.com/s/r73q2fowgxgz7yc/Video_3.mp4?dl=0))
 
-Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py))
+Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)/[видео](https://www.dropbox.com/s/62lo7fgar15qxkd/Video_5.mp4?dl=0))
 
 Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py))
 
