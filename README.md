@@ -12,7 +12,7 @@
 
 Лекция 4. Model-Free Reinforcement Learning ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)/[видео](https://www.dropbox.com/s/max2tig3f13q0cg/Video_6.mp4?dl=0))
 
-Лекция 5. Value Function Approximation ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf))
+Лекция 5. Value Function Approximation ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf)/[видео](https://www.dropbox.com/s/b9hsy803fsrso7l/Video_8.mp4?dl=0))
 
 Лекция 6. Policy Gradient ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf))
 
