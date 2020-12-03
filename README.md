@@ -14,7 +14,7 @@
 
 Лекция 5. Value Function Approximation ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf)/[видео](https://www.dropbox.com/s/b9hsy803fsrso7l/Video_8.mp4?dl=0))
 
-Лекция 6. Policy Gradient ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf))
+Лекция 6. Policy Gradient ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf)/[видео](https://www.dropbox.com/s/qv7lx0h53kom8ix/Video_10.mp4?dl=0))
 
 ### Практики
 
