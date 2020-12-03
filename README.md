@@ -26,7 +26,7 @@
 
 Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py)/[видео](https://www.dropbox.com/s/84bfa7ckxw0dm67/Video_7.mp4?dl=0))
 
-Практика 5. Решение Cartpole методом DQN ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py))
+Практика 5. Решение Cartpole методом DQN ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py)/[видео](https://www.dropbox.com/s/psex7ryc3ekc6cb/Video_9.mp4?dl=0))
 
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
