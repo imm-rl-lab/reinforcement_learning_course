@@ -2,33 +2,34 @@
 
 Курс посвящен методам обучения с подкреплением (Reinforcement learning) - одному из способов машинного обучения. В нем будет рассмотрена задача о создании систем, которые могли бы приспосабливаться к окружающей среде, а также обучаться на основе получаемого опыта. Такие задачи возникают во многих областях, включая информатику, технические науки, математику, физику, нейробиологию и когнитологию. В середине 2010-х годов методы обучения с подкреплением удалось эффективно применить для обучения глубоких нейронных сетей, что привело к ряду значимых результатов. В рамках спецкурса будут изложены основные методы обучения с подкреплением, приведены техники их успешного использования для глубоких нейронных сетей, рассмотрены примеры, предложены практические задания.
 
-### Слайды с лекций
+### Лекции
 
-[Лекция 1. Введение в обучение с подкреплением. Метод Cross-Entropy](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_1.pdf)
+Лекция 1. Введение в обучение с подкреплением. Метод Cross-Entropy ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_1.pdf)/[видео](https://www.dropbox.com/s/h2lff3q4rhpzue7/Video_1.mp4?dl=0))
 
-[Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)
+Лекция 2. Введение в нейронные сети. Deep Cross-Entropy Method ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_2.pdf)/[видео](https://www.dropbox.com/s/th4mdrk1jcq1sgx/Video_2.mp4?dl=0))
 
-[Лекция 3. Динамическое программирование](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)
+Лекция 3. Динамическое программирование ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_3.pdf)/[видео](https://www.dropbox.com/s/xipiqohh3zb1o6f/Video_4.mp4?dl=0))
 
-[Лекция 4. Model-Free Reinforcement Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)
+Лекция 4. Model-Free Reinforcement Learning ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_4.pdf)/[видео](https://www.dropbox.com/s/max2tig3f13q0cg/Video_6.mp4?dl=0))
 
-[Лекция 5. Value Function Approximation](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf)
+Лекция 5. Value Function Approximation ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_5.pdf)/[видео](https://www.dropbox.com/s/b9hsy803fsrso7l/Video_8.mp4?dl=0))
 
-[Лекция 6. Policy Gradient](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf)
+Лекция 6. Policy Gradient ([слайды](https://github.com/imm-rl-lab/UrFU_course/blob/master/Slides/Lecture_6.pdf)/[видео](https://www.dropbox.com/s/qv7lx0h53kom8ix/Video_10.mp4?dl=0))
 
-### Код с практик
+### Практики
 
-[Практика 1. Метод Cross-Entropy для решение Maze](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py)
+Практика 1. Метод Cross-Entropy для решение Maze ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice_1.py))
 
-[Практика 2.1. Решение задачи регрессии с использованием PyTorch](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-1.py)
+Практика 2. PyTorch и Deep Cross-Entropy ([код 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_1.py)/[код 2](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_2.py)/[код 3](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_3.py)/[видео](https://www.dropbox.com/s/r73q2fowgxgz7yc/Video_3.mp4?dl=0))
 
-[Практика 2.2. Решение Cartpole методом Deep Cross-Entropy](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-2_Problem-2.py)
+Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)/[видео](https://www.dropbox.com/s/62lo7fgar15qxkd/Video_5.mp4?dl=0))
 
-[Практика 3. Решение Frozen Lake методами Policy Iteration и Value Iteration](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-3.py)
+Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py)/[видео](https://www.dropbox.com/s/84bfa7ckxw0dm67/Video_7.mp4?dl=0))
 
-[Практика 4. Решение Taxi методами Monte-Carlo, SARSA и Q-Learning](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-4.py)
+Практика 5. Решение Cartpole методом DQN ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py)/[видео](https://www.dropbox.com/s/psex7ryc3ekc6cb/Video_9.mp4?dl=0))
 
-[Практика 5. Решение Cartpole методом DQN](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py)
+Практика 6. Решение Pendulum методом DDPG ([видео](https://www.dropbox.com/s/61dz3igadpzwh22/Video_11.mp4?dl=0))
+
 
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
@@ -49,7 +50,7 @@
 
 [https://playground.tensorflow.org/](https://playground.tensorflow.org/) Страничка с хорошей визуализацией обучения нейронных сетей. Просто так :)
 
-### Видео лекции
+### Видеолекции других курсов
 
 [A. Panin. Cross-Entropy Method.](https://ru.coursera.org/lecture/practical-rl/crossentropy-method-TAT8g) Короткая, но понятная лекция по применению метода Cross-Entropy к задачам обучения с подкреплением.
 
