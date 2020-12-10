@@ -28,6 +28,9 @@
 
 Практика 5. Решение Cartpole методом DQN ([код](https://github.com/imm-rl-lab/UrFU_course/blob/master/Coding/Practice-5.py)/[видео](https://www.dropbox.com/s/psex7ryc3ekc6cb/Video_9.mp4?dl=0))
 
+Практика 6. Решение Pendulum методом DDPG ([видео](https://www.dropbox.com/s/61dz3igadpzwh22/Video_11.mp4?dl=0))
+
+
 ### Домашние задания
 [Домашнее задание 1](https://github.com/imm-rl-lab/UrFU_course/blob/master/Homework/Homework_1.pdf)
 
